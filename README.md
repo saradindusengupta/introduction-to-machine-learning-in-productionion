@@ -2,6 +2,7 @@
 
 Course work for Coursera [MLOps specialization](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 
+Check ![References](Reference.md)
 
 # Notes
 
